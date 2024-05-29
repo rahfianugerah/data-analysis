@@ -1,4 +1,4 @@
-# Bikesharing Data Analysis Project Dashboard
+# Bike Sharing Data Analysis Project
 
 <div align="center">
     <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-lighttext.png"/>
