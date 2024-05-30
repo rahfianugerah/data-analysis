@@ -34,7 +34,8 @@ streamlit run dashboard/dashboard.py
 ## Project Author
 - GitHub: [@rahfianugerah](https://www.github.com/rahfianugerah)
 
-
+## Special Thanks to <a href="https://www.dicoding.com/">Dicoding</a>
+<img src="https://help.dicoding.com/wp-content/uploads/2021/01/dicoding-edit.jpg"/>
 
 <p align="justify">
   Dicoding is a one-stop shop for Indonesian developers looking to level up their skills. 
@@ -55,6 +56,6 @@ streamlit run dashboard/dashboard.py
 <p align="justify">
   Several publicly available datasets were utilized for this project. 
   Descriptions and access information for each dataset can be found in the references section
-  (<a href="https://github.com/dicodingacademy/assets/releases/download/release/rockpaperscissors.zip">Dicoding</a>,
-  <a href="https://www.kaggle.com/datasets/drgfreeman/rockpaperscissors">Kaggle</a>). These datasets provided the foundation for my exploration of this project.
+  (<a href="">Dicoding</a>,
+  <a href="">Kaggle</a>). These datasets provided the foundation for my exploration of this project.
 </p>
