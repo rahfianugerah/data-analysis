@@ -33,3 +33,28 @@ streamlit run dashboard/dashboard.py
 
 ## Project Author
 - GitHub: [@rahfianugerah](https://www.github.com/rahfianugerah)
+
+
+
+<p align="justify">
+  Dicoding is a one-stop shop for Indonesian developers looking to level up their skills. 
+  It offers a comprehensive developer journey, encompassing learning, building, validation, and even job opportunities.
+  The core of Dicoding is its Academy, which provides a variety of courses on programming languages, frameworks, and other developer tools. 
+  Whether you're a beginner or a seasoned developer, Dicoding has something for you, with both free and paid subscription options.<br>
+</p>
+
+<p align="justify">
+  Beyond just learning, Dicoding provides opportunities to put your skills to the test with coding challenges. 
+  These challenges allow you to practice your newfound knowledge and compete with other developers to further hone your abilities.
+  Dicoding doesn't stop at education; it also helps with career development. The platform features a job board where developers can search for positions that match their skills and experience. 
+  Additionally, Dicoding hosts events and workshops that connect developers with industry professionals, fostering valuable networking opportunities.
+</p>
+
+## Dataset Reference
+
+<p align="justify">
+  Several publicly available datasets were utilized for this project. 
+  Descriptions and access information for each dataset can be found in the references section
+  (<a href="https://github.com/dicodingacademy/assets/releases/download/release/rockpaperscissors.zip">Dicoding</a>,
+  <a href="https://www.kaggle.com/datasets/drgfreeman/rockpaperscissors">Kaggle</a>). These datasets provided the foundation for my exploration of this project.
+</p>
