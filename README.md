@@ -30,3 +30,6 @@ pip install -r requirements.txt
 ```
 streamlit run dashboard/dashboard.py
 ```
+
+## Project Author
+- GitHub: [@rahfianugerah](https://www.github.com/rahfianugerah)
