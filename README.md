@@ -1,9 +1,13 @@
 # Bike Sharing Data Analysis Project
 
+![Maintenance]( https://img.shields.io/badge/Maintenance-Yes-green)
+![TensorFlow]( https://img.shields.io/badge/TensorFlow-v2.15.0-ff8500)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)]()
+![Python](https://img.shields.io/badge/Made_with-Python-blue.svg)
+
 <div align="center">
     <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-lighttext.png"/>
 </div>
-
 
 ## Project Overview
 <p align="justify">
